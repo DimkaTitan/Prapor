@@ -1,0 +1,24 @@
+header{
+    height: 200px;
+    background-color: gray;
+}
+#menu{
+    height: 800px;
+    width: 20%;
+    background-color: aqua;
+    float: left;
+}
+#content{
+    height: 800px;
+    width: 80%;
+    background-color: aquamarine;
+    float: left;
+}
+footer{
+    height: 100px;
+    background-color: blueviolet;
+    clear: both;
+}
+h1, h2{
+    text-align: center;
+}

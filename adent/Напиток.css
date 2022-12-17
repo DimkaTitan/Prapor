@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(252, 229, 15);
+}
+p{
+    background-color: rgb(251, 31, 7);
+    color: rgb(10, 248, 10);
+    font-family: cursive;
+    font-size: 50px;
+}
+table{
+    border: double 5px red;
+    width: 50%;
+}
+th,td{
+    border: solid 2px lightgreen;
+    width: 20%;
+}
+tr:hover{
+    background-color: lightgray;
+}
